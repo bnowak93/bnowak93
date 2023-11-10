@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bnowak93
-- 👀 I’m interested in learning java/kotlin/scala although I only jave experience in first one. 
+- 👀 I’m interested in learning java/kotlin/scala although I only have experience in first one. 
 - I also think about ventuing into Frontend technologies, but those are plans for future
 - 🌱 I’m currently learning Spring framewrok 
 - 💞️ I’m looking to collaborate on anyproject that includes mentioned languages
